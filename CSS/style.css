@@ -1,0 +1,102 @@
+*,
+*::after,
+*::before {
+box-sizing: border-box;
+}
+html , body{
+    
+    margin: 0;
+        }
+
+.header-menu-link {
+    font-size: 18px;
+    
+    text-decoration: none;
+    color:#FF0000;
+    line-height:  27px;
+    
+    
+    }
+ .page-header-menu{
+    
+    
+        
+        list-style: none;
+        display: inline;
+    
+    }
+.header-menu-item{
+        display: inline;
+        text-transform : uppercase;
+        font-weight: bold;  
+        margin-left:  72px;
+    }
+   
+   
+.baner{
+        width: 100%;
+        height: 789px;
+    }
+
+.text{
+text-align: center;
+Font-size: 16px;
+padding: 0;
+margin: 0 68px 28px 68px;
+
+}
+.text-main{
+    margin-bottom: 56px;
+
+}
+
+.title{
+    font-weight: bold; 
+    text-transform : uppercase;
+    margin-top: 48px;
+    margin-bottom: 38px;
+    padding: 0;
+    text-align: center;
+    
+
+}
+.container{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    text-align: center; 
+    padding: 0;
+
+}
+.main-menu-link{
+   background-color: #FF0000;
+   color: #FFFFFF;      
+    text-transform: uppercase; 
+    text-decoration: none;
+    border-radius: 4px;
+    Font-size: 12px;
+    padding: 18px 43px 18px 43px;
+    border: 0;
+
+}
+.main-menu{
+    text-align: center;
+}
+.copyright{
+
+  
+   font-weight: bold;
+  
+
+}
+
+
+.footer-botton{
+
+
+font-size: 16px;
+line-height: 100%;
+text-align: right;
+margin-right: 105px;
+margin-bottom: 29px;
+margin-top: 99px;
+}
